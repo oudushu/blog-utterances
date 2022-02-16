@@ -1,1 +1,1 @@
-# [Darren's blog](https://odszz.com)
+# Comment Plugin for [Darren's Blog](https://odszz.com).
